@@ -1,0 +1,5 @@
+MH01#Toan Cao Cap#3#LT#7.5#8.0
+MH02#Lap trinh Dart#4#TH#8.0#7.5#9.0
+MH03#Do an mon hoc#2#DA#8.5#9.0
+MH04#Tri tue nhan tao#3#LT#6.0#7.5
+MH05#CSDL#3#TH#5.0#6.0#7.0
